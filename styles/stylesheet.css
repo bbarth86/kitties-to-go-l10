@@ -1,0 +1,127 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background-color: #1A576B;
+    color: rgb(255,255,255);
+    position: relative;
+    margin-bottom: -20px;
+}
+
+footer {
+    clear: both;
+    background-color: #1A576B;
+    color: rgb(255,255,255);
+    padding-top: 55px;
+    padding-bottom: 45px;
+    text-align: center;
+}
+
+h1 {
+    position: relative;
+    left: 150px;
+    text-transform: uppercase;
+    padding: 65px 0px 0px;
+}
+
+h2 {
+    position: relative;
+    left: 150px;
+    font-style: italic;
+    padding: 0px 0px 35px;
+}
+
+.nav-hdr {
+    background-color: rgb(235,235,235);
+    padding: 23px 0px 23px;
+    margin: 0px 0px 40px;
+}
+
+.nav-hdr-box {
+    position: relative;
+    left: 150px;
+}
+
+.ktg-main {
+    position: relative;
+    float: left;
+    width: 50%;
+    background-color: rgb(255,255,255);
+    left: 150px;
+}
+
+.p-main {
+    font-size: 14px;
+    color: rgb(60,60,60);
+}
+
+.p-ftr {
+    font-size: 14px;
+    color: rgb(255,255,255);
+}
+
+.section-hdr {
+    text-transform: uppercase;
+    color: rgb(60,60,60);
+}
+
+.bac-input {
+    margin-left: 10px;
+}
+
+.quote {
+    font-size: 18px;
+    color: #1A576B;
+    padding: 50px 0px 50px;
+}
+
+.hdr-url {
+    text-decoration: none;
+    color: rgb(60,60,60);
+    font-weight: bold;
+}
+
+.body-url {
+    text-decoration: none;
+    color: #1A576B;
+    font-size: 14px;
+}
+
+.ftr-url {
+    text-decoration: none;
+    color: rgb(255,255,255);
+    font-weight: bold;
+}
+
+.ftr-box {
+    width: 550px;
+    position: absolute;
+    top: 850px;
+    right: 450px;
+}
+
+.ktg-sdbar {
+    position: relative;
+    float: left;
+    width: 25%;
+    left: 175px;
+    margin: 0px 15px 15px;
+}
+
+.fig-sdbar {
+    margin: 0px;
+    padding: 0px 0px 15px;
+    color: rgb(60,60,60);
+    font-size: 14px;
+}
+
+.sect-bnr {
+    width: 100%;
+    border: 1px solid;
+    margin: 25px 15px 0px 0px;
+}
+
+#abt-hdr {
+    color: #1A576B;
+}
